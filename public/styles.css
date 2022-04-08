@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+
+nav{
+    width: 60%;
+    margin: auto;
+    background-color: bisque;
+    padding : 10px;
+    border-radius: 40px 15px;
+}
+
+form{
+    width: 60%;
+    margin: 10px auto;
+    background-color:darkgray;
+    padding: 50px 10px;
+    border-radius: 15px 40px;
+}
