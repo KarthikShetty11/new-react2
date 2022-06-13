@@ -1,19 +1,22 @@
 body{
     margin:0;
+    background-color: lightgrey;
 }
 
 nav{
-    width: 60%;
-    margin: auto;
-    background-color: bisque;
+    
+    
+    background-color:rgb(237, 171, 47);
     padding : 10px;
-    border-radius: 40px 15px;
+    color: white;
 }
 
 form{
-    width: 60%;
-    margin: 10px auto;
-    background-color:darkgray;
+    margin: 10px 0 0 10px;
+    position: absolute;
+    display: inline;
+    background-color: white;
     padding: 50px 10px;
-    border-radius: 15px 40px;
+    border-radius: 30px;
+    color: grey;
 }
