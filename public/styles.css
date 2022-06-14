@@ -3,21 +3,26 @@ body{
     background-color: lightgrey;
 }
 
-nav{
-    
-    
+header{
     background-color:rgb(237, 171, 47);
     padding : 10px;
     color: white;
+    text-align: center;
 }
 
 form{
-    margin: 10px 0 0 10px;
-    position: absolute;
-    display: inline;
+    margin: 10px 10px;
+    display: inline-block;
     background-color: white;
     padding: 50px 10px;
     border-radius: 30px;
     color: grey;
 }
 
+footer{
+    
+    background-color:rgb(237, 171, 47);
+    padding : 10px;
+    color: white;
+    text-align: center;
+}
